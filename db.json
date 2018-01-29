@@ -1,0 +1,70 @@
+{
+   "result":{
+      "code":0,
+      "message":"OK"
+   },
+   "data":{
+      "events":[
+         {
+            "service_type":"Service Type",
+            "service_id":"1234",
+            "event_category":"12345",
+            "event_code":1234,
+            "event_title":"Title",
+            "event_description":"Description",
+            "device_name":"Device Name",
+            "device_id":"Device ID",
+            "register_url":"register url",
+            "date":"data"
+         },
+         {
+            "service_type":"Service Type",
+            "service_id":"1234",
+            "event_category":"12345",
+            "event_code":1234,
+            "event_title":"Title",
+            "event_description":"Description",
+            "device_name":"Device Name",
+            "device_id":"Device ID",
+            "register_url":"register url",
+            "date":"data"
+         },
+         {
+            "service_type":"Service Type",
+            "service_id":"1234",
+            "event_category":"12345",
+            "event_code":1234,
+            "event_title":"Title",
+            "event_description":"Description",
+            "device_name":"Device Name",
+            "device_id":"Device ID",
+            "register_url":"register url",
+            "date":"data"
+         },
+         {
+            "service_type":"Service Type",
+            "service_id":"1234",
+            "event_category":"12345",
+            "event_code":1234,
+            "event_title":"Title",
+            "event_description":"Description",
+            "device_name":"Device Name",
+            "device_id":"Device ID",
+            "register_url":"register url",
+            "date":"data"
+         },
+         {
+            "service_type":"Service Type",
+            "service_id":"1234",
+            "event_category":"12345",
+            "event_code":1234,
+            "event_title":"Title",
+            "event_description":"Description",
+            "device_name":"Device Name",
+            "device_id":"Device ID",
+            "register_url":"register url",
+            "date":"data"
+         }
+      ]
+   }
+}
