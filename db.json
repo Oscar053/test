@@ -15,7 +15,7 @@
         "device_name": "iPh",
         "device_id": "11",
         "register_url": "http://1",
-        "date": "03/08/2017"
+        "date": "03-08-2017"
       },
 	 {
         "service_type": "TIMVSS",
@@ -27,7 +27,7 @@
         "device_name": "iPh11",
         "device_id": "100",
         "register_url": "http://100",
-        "date": "02/08/2017"
+        "date": "02-08-2017"
       },
       {
         "service_type": "STBALYT",
@@ -39,7 +39,7 @@
         "device_name": "iPh2",
         "device_id": "22",
         "register_url": "http://2",
-        "date": "04/08/2017"
+        "date": "04-08-2017"
       },
       {
         "service_type": "NEST",
@@ -51,7 +51,7 @@
         "device_name": "iPh3",
         "device_id": "33",
         "register_url": "http://3",
-        "date": "05/08/2017"
+        "date": "05-08-2017"
       },
 	 {
         "service_type": "NEST",
@@ -63,7 +63,7 @@
         "device_name": "iPh3",
         "device_id": "33",
         "register_url": "http://3",
-        "date": "07/08/2017"
+        "date": "07-08-2017"
       },
       {
         "service_type": "IHEALTH",
@@ -75,7 +75,7 @@
         "device_name": "iPh4",
         "device_id": "44",
         "register_url": "http://4",
-        "date": "09/08/2017"
+        "date": "09-08-2017"
       },
       {
         "service_type": "HUE",
@@ -87,7 +87,7 @@
         "device_name": "iPh5",
         "device_id": "55",
         "register_url": "http://5",
-        "date": "08/08/2017"
+        "date": "08-08-2017"
       }
     ]
   }
