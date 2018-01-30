@@ -15,7 +15,7 @@
         "device_name": "iPh",
         "device_id": "11",
         "register_url": "http://1",
-        "date": “03/08/2017"
+        "date": "03/08/2017"
       },
 	 {
         "service_type": "TIMVSS",
@@ -27,7 +27,7 @@
         "device_name": "iPh11",
         "device_id": "100",
         "register_url": "http://100",
-        "date": “02/08/2017"
+        "date": "02/08/2017"
       },
       {
         "service_type": "STBALYT",
