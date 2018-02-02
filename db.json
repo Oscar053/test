@@ -4,8 +4,10 @@
     "message": "OK"
   },
   "data": {
+	"last_event_id" : "0007",
     "events": [
       {
+		"id" : "0001",
         "service_type": "TIMVSS",
         "service_id": "1234",
         "event_category": "12341",
@@ -18,6 +20,7 @@
         "date": "03-08-2017"
       },
 	 {
+		 "id" : "0002",
         "service_type": "TIMVSS",
         "service_id": "12344",
         "event_category": "123411",
@@ -30,6 +33,7 @@
         "date": "02-08-2017"
       },
       {
+		  "id" : "0003",
         "service_type": "STBALYT",
         "service_id": "1232",
         "event_category": "12342",
@@ -42,6 +46,7 @@
         "date": "04-08-2017"
       },
       {
+		  "id" : "0004",
         "service_type": "NEST",
         "service_id": "1111",
         "event_category": "12343",
@@ -54,6 +59,7 @@
         "date": "05-08-2017"
       },
 	 {
+		 "id" : "0005",
         "service_type": "NEST",
         "service_id": "1",
         "event_category": "12",
@@ -66,6 +72,7 @@
         "date": "07-08-2017"
       },
       {
+		  "id" : "0006",
         "service_type": "IHEALTH",
         "service_id": "1999",
         "event_category": "12344",
@@ -78,6 +85,7 @@
         "date": "09-08-2017"
       },
       {
+		  "id" : "0007",
         "service_type": "HUE",
         "service_id": "1239",
         "event_category": "12345",
