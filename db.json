@@ -122,7 +122,8 @@
         "device_id": "55",
         "register_url": "http://5",
         "date": "2018-01-25T10:01:00Z"
-      },{
+      },
+	  {
 		  "id" : "0010",
         "service_type": "HUE",
         "service_id": "1239",
@@ -134,7 +135,8 @@
         "device_id": "55",
         "register_url": "http://5",
         "date": "2018-01-25T09:01:00Z"
-      },{
+      },
+	  {
 		  "id" : "0011",
         "service_type": "HUE",
         "service_id": "1239",
@@ -146,7 +148,8 @@
         "device_id": "55",
         "register_url": "http://5",
         "date": "2018-01-25T08:01:00Z"
-      },{
+      },
+	  {
 		  "id" : "0012",
         "service_type": "HUE",
         "service_id": "1239",
@@ -158,7 +161,8 @@
         "device_id": "55",
         "register_url": "http://5",
         "date": "2018-01-25T07:01:00Z"
-      },{
+      },
+	  {
 		  "id" : "0013",
         "service_type": "HUE",
         "service_id": "1239",
@@ -170,7 +174,7 @@
         "device_id": "55",
         "register_url": "http://5",
         "date": "2018-01-25T06:01:00Z"
-      },
+      }
     ]
   }
 }
